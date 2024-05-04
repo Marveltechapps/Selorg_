@@ -1,0 +1,1 @@
+ C:\\workspace\\selorg_new-26\\lib/l10n\\app_localizations_en.dart C:\\workspace\\selorg_new-26\\lib/l10n\\app_localizations_ta.dart C:\\workspace\\selorg_new-26\\lib/l10n\\app_localizations.dart:  C:\\workspace\\selorg_new-26\\l10n.yaml C:\\workspace\\selorg_new-26\\lib/l10n\\intl_en.arb C:\\workspace\\selorg_new-26\\lib/l10n\\intl_ta.arb
